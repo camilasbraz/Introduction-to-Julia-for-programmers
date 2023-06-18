@@ -9,9 +9,10 @@ pi = 3.14159
 typeof(pi)
 
 str = "Julia is awesome"
-typeof(str)
+println(typeof(str))
 
 😸 = "An emoji variable"
+
 
 # Comments are done using hashtags
 
